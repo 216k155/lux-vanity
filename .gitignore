@@ -1,0 +1,9 @@
+.idea
+cmake-build-debug
+*.oclbin
+*.o
+lux-vanity
+lux-vanity-gpu
+luxgpuminer
+keyconv
+
